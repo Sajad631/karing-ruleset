@@ -1,0 +1,97 @@
+#######################################################################
+# The list contains uniques domains collected over                    #
+# the last 7 days by OSINT.digitalside.it                             #
+# The list is released without any warranty to the end users.         #
+# INFO: info@digitalside.it                                           #
+# PGP key ID: 30B31BDA                                                #
+# PGP fingerprint: 0B4C F801 E8FF E9A3 A602  D2C7 9C36 93B2 30B3 1BDA #
+# Every link reported should be considered harmefull and should       #
+# result in an unwanted malware download. Use this file carefully    #
+# Generated at: 2024-10-05 08:43:00                                   #
+#######################################################################
+220-133-67-91.hinet-ip.hinet.net
+a1035933.xsph.ru
+academistrasbourg.duckdns.org
+admequipamentos.online
+admin.duc3k.com
+appdiscapacidad.com
+arthurmaes.top
+azqewrtynuytcdrxrszaesxcdtfvbgu.shop
+bandeirantelogistica.online
+baruopas.com
+bestmagazineforanimalsunicum.ru
+bot.haluodq.cc
+bots.gxz.me
+brightorbitconsultancy.com
+c2.paris-services.xyz
+carvalhoengenharia.site
+cdn-nacasuw3jz5x.vultrcdn.com
+clavity.me
+cnc.duc3k.com
+cnc.merisprivate.net
+cnc.ziparchive.xyz
+coinbasenftapp.com
+corretoralago.site
+creativefocusmediainc.com
+cryptolabstudio.com
+developer.creativefocusmediainc.com
+dl.zerotheme.ir
+down.lianfamedical.com
+download.suxiazai.com
+editoraramos.online
+ergrtgrtgwrgrgrgrgwregergerg.cloud
+filedn.com
+files.veritas.org.ng
+finalstepgo.com
+financasguaru.online
+francaorganizacoes.online
+givesc.link
+gouged-out.com
+hailcocks.ru
+hans.uniformeslaamistad.com
+hfs.t1linux.com
+hiroshima.accesscam.org
+indexconnectchorus.duckdns.org
+indexconnectwe.duckdns.org
+indexconnexionwe.duckdns.org
+indexoran.duckdns.org
+indexwet.duckdns.org
+jake.iestpchincha.edu.pe
+jask.powerforxes.shop
+jeffmorales.top
+joscramp.top
+larsvanderwal.top
+lifesuma.com
+males.mugutu.com
+mazurax.com
+metacarpusget.top
+moneylandry.com
+musicasdownload.online
+normanhoffman.top
+novo.doxbin.top
+nwsfillw.com
+pankhalo.com
+passagetoeastafrica.com
+payhostmsa.shop
+playd.healthnlife.pk
+projetoretha.online
+ronaldlitt.top
+ru3w2.com
+seburage.com
+spare-shadows-dreams-tourist.trycloudflare.com
+static.242.130.55.162.clients.your-server.de
+sumerda.com
+sumonare.com
+systemupdate-microsoft.top
+tashex.net
+tianyinsoft.top
+tjrivbgnjkdigghhkkl.com
+triujbnkrjtuigtjgivg.com
+usyefsf.net
+www.clavity.me
+www.mazurax.com
+www.sumerda.com
+www.titansofchina.net
+xn--girsdom-9ya.com
+zimbralet.x24hr.com
+znrq.zifwxq.cn
